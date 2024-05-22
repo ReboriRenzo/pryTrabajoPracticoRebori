@@ -44,7 +44,7 @@
             this.groupBox1.Controls.Add(this.btnOnas);
             this.groupBox1.Location = new System.Drawing.Point(13, 14);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(374, 141);
+            this.groupBox1.Size = new System.Drawing.Size(374, 142);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Nuestras Obras";
